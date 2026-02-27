@@ -152,13 +152,3 @@ tl.set(".hero-1-container", { opacity: 0 });
 
 
 
-/* ===============================
-   CALENDAR LOGIC (ADD-ONLY)
-   DOES NOT TOUCH OLD CODE
-================================ */
-
-
-/* ===============================
-   CALENDAR LOGIC (ADD-ONLY)
-   DOES NOT TOUCH OLD CODE
-================================ */
